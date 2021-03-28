@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/dudeDeni/test/issues"
   },
-  "homepage": "https://github.com/dudeDeni/test#readme"
+  "homepage": "https://github.com/dudeDeni/test#readme",
+  "dependencies": {
+    "jquery": "^3.6.0"
+  },
+  "devDependencies": {
+    "webpack": "^5.28.0"
+  }
 }
